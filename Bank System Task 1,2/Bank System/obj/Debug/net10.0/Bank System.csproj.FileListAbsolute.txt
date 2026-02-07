@@ -1,0 +1,14 @@
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.AssemblyInfoInputs.cache
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.AssemblyInfo.cs
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\bin\Debug\net10.0\Bank System.exe
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\bin\Debug\net10.0\Bank System.deps.json
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\bin\Debug\net10.0\Bank System.runtimeconfig.json
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\bin\Debug\net10.0\Bank System.dll
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\bin\Debug\net10.0\Bank System.pdb
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.dll
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\refint\Bank System.dll
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.pdb
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\Bank System.genruntimeconfig.cache
+C:\Users\Belal Mohamed\source\repos\Bank System\Bank System\obj\Debug\net10.0\ref\Bank System.dll
